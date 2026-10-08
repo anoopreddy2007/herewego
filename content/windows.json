@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Summer 2022",
+    "league": "Multiple",
+    "opens": "2022-06-01",
+    "closes": "2022-09-01"
+  },
+  {
+    "label": "Winter 2022/23",
+    "league": "Multiple",
+    "opens": "2022-12-01",
+    "closes": "2023-02-01"
+  },
+  {
+    "label": "Summer 2023",
+    "league": "Multiple",
+    "opens": "2023-06-01",
+    "closes": "2023-09-01"
+  },
+  {
+    "label": "Summer 2024",
+    "league": "Multiple",
+    "opens": "2024-06-01",
+    "closes": "2024-09-01"
+  },
+  {
+    "label": "Summer 2025",
+    "league": "Multiple",
+    "opens": "2025-06-01",
+    "closes": "2025-09-01"
+  },
+  {
+    "label": "Earlier",
+    "league": "Multiple",
+    "opens": null,
+    "closes": null
+  }
+]
